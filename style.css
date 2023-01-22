@@ -2,7 +2,9 @@
 @import 'https://fonts.googleapis.com/css?family=Denk+One';
 body {
     font-family: 'Titillium Web', sans-serif;
+    background-color: #EAF6F6;
 }
+
 
 img {
     max-width: 100%;
