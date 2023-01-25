@@ -41,7 +41,7 @@ h2 {
 footer {
     background-color: rgba(16,166,196,1.00);
     color: white;
-    min-height: 70px;
+    min-height: 50px;
     padding: 45px;
     clear: both;
 }
